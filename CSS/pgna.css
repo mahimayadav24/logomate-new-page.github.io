@@ -102,7 +102,7 @@ body, html {
     position: relative;
     /* border: 1px solid red; */
     width: 235px;
-    height: 180px;
+    height: 156px;
     top: 0;
     border-radius: 20px;
     background-color: #FFFFFF;
@@ -120,7 +120,7 @@ body, html {
 
 .on-ne #ns-pr {
     position: absolute;
-    bottom: 112px;
+    bottom: 85px;
     left: 6px;
     width: 100%;
     cursor: pointer;
@@ -129,7 +129,7 @@ body, html {
 
 .text {
     position: absolute;
-    top: 52px;
+    top: 47px;
     left: 51px;
     text-align: center;
 }
@@ -137,11 +137,11 @@ body, html {
 .fl-sl {
     position: absolute;
     left: -60.6px;
-    bottom: -20px;
+    bottom: -4px;
 }
 
 .flxt button {
-    transform: translateY(5px);
+    transform: translateY(-11px);
     border: none;
     background-color: #274EC9;
     color: #FDFEFF;
@@ -155,7 +155,7 @@ body, html {
 .flxt button:hover {
     background-color: #4263d0cd;
     transition: .3s ease-in;
-    transform: translateY(2px);
+    transform: translateY(-9px);
 }
 
 #img-two {
